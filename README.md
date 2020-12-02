@@ -1,0 +1,1 @@
+# spring-seurity-user-authorities-junit-3
